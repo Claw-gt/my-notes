@@ -4,8 +4,7 @@ longform:
   title: My Public Notes
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - Introduction
+  scenes: []
   sceneTemplate: my-notes/templates/chapter.md
   ignoredFiles: []
 ---
