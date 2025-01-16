@@ -1,5 +1,3 @@
-### Courses
-
 #### 1. [[Cybersecurity Terminology]]
 #### 2. [[Introduction to Cybersecurity Tools & Cyber Attacks]]
 
@@ -9,5 +7,4 @@
 
 #### 5. [[PKI Foundations]]
 
-### Q&A Session
 

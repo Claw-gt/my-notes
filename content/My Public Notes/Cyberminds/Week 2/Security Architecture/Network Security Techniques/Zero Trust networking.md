@@ -1,6 +1,6 @@
 **Trust in individuals rather than networks**
 
-Shifts the focus form perimeter protection and onto strong identity and access amangement: **IAM**
+Shifts the focus form perimeter protection and onto strong identity and access management: **IAM**
 
 # IAM 
 

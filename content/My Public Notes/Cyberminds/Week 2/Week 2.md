@@ -1,12 +1,5 @@
-### Courses
-
 #### 1. [[Cybersecurity Compliance Framework, Standards & Regulations]]
-#### 2. [[Introduction to Cybersecurity Tools & Cyber Attacks]]
+#### 2. [[Cyberminds Academy/Week 2/8 Network Security Design and Implementation/Network Security| Network Security]]
+#### 3. [[Security Architecture]]
+#### 4. [[Self-awareness]]
 
-#### 3. [[Security Principles]]
-
-#### 4. [[Encryption]]
-
-#### 5. [[PKI Foundations]]
-
-### Q&A Session

@@ -10,6 +10,7 @@ The **client/server** model emerged in the 1980s and 1990s
 Now, most data centers leverage **virtualization technology**
 
 <img src="https://www.cloud4u.com/upload/medialibrary/e69/what-is-a-virtualization-techology.png">
+see [[Containers]]
 
 ---
 

@@ -9,3 +9,10 @@
 
 ### [[Cybersecurity Trends]]
 
+### Social Engineering
+#### [[Social Engineering]]
+#### [[Phising]]
+
+### Malware and Ransomware
+#### [[Malware]]
+#### [[Ransomware]]

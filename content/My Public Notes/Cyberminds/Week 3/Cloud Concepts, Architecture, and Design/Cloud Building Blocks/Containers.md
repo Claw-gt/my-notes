@@ -10,7 +10,7 @@ Lightweight application virtualization
 - Use the host's operating system. **They do not have their own OS**
 
 <img src="https://assets-global.website-files.com/60494527fea68422687bfcf1/60620c306c8eb076474a5b90_virtual-machines-vs-containers-1024x582.png">
-
+![[Docker.png]]
 ## Security Perspective
 
 ### Isolation
